@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a954db-1296-4c4a-af1e-5f5e4f3b41e3" name="Changes" comment="module_17_1">
-      <change afterPath="$PROJECT_DIR$/app/backend/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/user.py" afterDir="false" />
+    <list default="true" id="19a954db-1296-4c4a-af1e-5f5e4f3b41e3" name="Changes" comment="module_17_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +38,8 @@
     "Python.task.executor": "Run",
     "Python.user.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -70,11 +66,44 @@
       <option name="project" value="LOCAL" />
       <updated>1731001949023</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="module_17_2">
+      <option name="closed" value="true" />
+      <created>1731419199587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731419199587</updated>
+    </task>
+    <task id="LOCAL-00003" summary="module_17_2">
+      <option name="closed" value="true" />
+      <created>1731419211657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731419211657</updated>
+    </task>
+    <task id="LOCAL-00004" summary="module_17_2">
+      <option name="closed" value="true" />
+      <created>1731419220834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731419220834</updated>
+    </task>
+    <task id="LOCAL-00005" summary="module_17_2">
+      <option name="closed" value="true" />
+      <created>1731419290974</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731419290974</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="module_17_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="module_17_1" />
+    <MESSAGE value="module_17_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_17_2" />
   </component>
 </project>
